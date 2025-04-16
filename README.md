@@ -1,5 +1,5 @@
 # Rice_Detection_Project
-# Section 1: "MLP - Basic Image Classification"
+# "MLP - Basic Image Classification"
 
 You will start with a simple image classification task using an MLP. Use Rice dataset and build a model that classifies these images into their respective categories.
 The goal of the project will be to build a MLP to classify different types of rice grains based on images. The dataset contains images of rice grains from different classes, and the you will need to preprocess the data, design and implement a MLP, train the model (atleast two model for comparision), and evaluate its performance.
